@@ -14,17 +14,17 @@ cd huangtingting
 
 
 
-git pull
+git pull   （这个意思是同步云端的东西，一般每次编辑前都Git pull 一下）
 
 （就可以编辑了~）
 
 编辑完就下面三步~
 
-git add . 
+git add .          （存入缓存区，可以理解加到箱子里）
 
-git commit -m "XXXXX"
+git commit -m "XXXXX"     （这个是提交打包区   ，后面xxx随便写可以理解为打包贴标签）
 
-git push
+git push     （这个是寄出去）
 
 后面就
 
